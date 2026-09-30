@@ -72,10 +72,6 @@ Although this is a small analytical project, the workflow represents a common pa
 
 - Matplotlib
 
-### Development Environment
-
-- Jupyter Notebook
-
 ---
 
 ## Analysis Workflow
